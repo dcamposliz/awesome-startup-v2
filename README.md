@@ -23,6 +23,11 @@ A curated list of awesome books, videos, courses and resources about making a st
 * [Hooked: How to Build Habit-Forming Products](http://amzn.com/1591847788)
 - [The Lean Startup by Eric Ries](http://www.amazon.com/Lean-Startup-Innovation-Successful-ebook/dp/B004J4XGN6/)
 - [Business Model Generation by Alexander Osterwalder](http://www.amazon.com/Business-Model-Generation-Visionaries-ebook/dp/B00BD6RFFS/)
+- [Value Proposition Design by Alexander Osterwalder](https://www.amazon.com/Value-Proposition-Design-Customers-Strategyzer/dp/1118968050/)
+- [Testing Business Ideas by Alexander Osterwalder](https://www.amazon.com/Rapid-Testing-Business-Ideas-Customer/dp/1119551447/)
+- [The Mom Test by Rob Fitzpatrick](https://www.amazon.com/Mom-Test-customers-business-everyone/dp/1492180742/)
+
+
 - [The Startup Owner's Manual by Steve Blank](http://www.amazon.com/Startup-Owners-Manual-Step--ebook/dp/B009UMTMKS/) - The Startup Owner's Manual lays out the best practices, lessons and tips that have swept the startup world, offering a wealth of proven advice and information for entrepreneurs of all stripes.
 - [Running Lean by Ash Maurya](http://www.amazon.com/Running-Lean-Iterate-Series-ebook/dp/B006UKFFE0/) - A practical guide to the Lean Startup
 - [Founders At Work by Jessica Livingston](http://www.amazon.com/Founders-Work-Stories-Startups-ebook/dp/B009IXMK4O/) - A collection of interviews about the early days of popular technology companies
